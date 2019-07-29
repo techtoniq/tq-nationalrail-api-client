@@ -19,7 +19,7 @@ Shortcode to display real time train information from the National Rail API.
 
 == Installation ==
 
-1. Upload `tq-nationalrail-api-client.php` to the `/wp-content/plugins/` directory
+1. Upload to a `/wp-content/plugins/tq-naitonalrail-api-client` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place a `[tq_nationalrail]` shortcode in your page
 
